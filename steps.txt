@@ -1,0 +1,6 @@
+1) Set up environment
+2) Add boilerplate code
+3) Create SQLAlchemy database tables
+    3.1) Set up Marshmallow schemas
+    3.5) Actually create said database tables
+4) Create Flask endpoints for each table
